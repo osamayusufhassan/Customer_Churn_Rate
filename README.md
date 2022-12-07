@@ -1,6 +1,6 @@
 # Customer Churn Rate
 ## Customer Churn Rate in the US
-• Problem Statement: Study the Customer Churn Rate in the US on the basis of category, reasons, age and analyze the relationship between Customer Service Calls and Customer Churn. </br>
+• Problem Statement: Study the Customer Churn Rate in the US on the basis of category, reasons, age and analyze the relationship between Customer Service Calls and Customer Churn based on historical data. </br>
 • Skills Accomplished: Exploratory Data Analysis, Query editor, new query, new column, filtering, mapping, pie chart and dashboarding etc on Microsoft PowerBI. </br>
 • Tools Used: Microsoft Power BI, Microsoft Excel.</br>
 
